@@ -1,6 +1,6 @@
-# Black Hole (C# / WinForms)
+# Graphics API is irrelevant (C# / WinForms)
 
-A simple WinForms app that renders an animated, shader-like black hole effect purely on the CPU, pixel by pixel, with no graphics library (no OpenGL/DirectX/SkiaSharp/etc.) — just `System.Drawing`, `System.Numerics`, and math.
+A simple WinForms app that renders an animated, shader-like plasma and wave effect purely on the CPU, pixel by pixel, with no graphics library (no OpenGL/DirectX/SkiaSharp/etc.) — just `System.Drawing`, `System.Numerics`, and math.
 
 This project started as a **tutorial** to learn how graphics/shaders work without relying on a graphics library, inspired by this video:
 
